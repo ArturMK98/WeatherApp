@@ -11,7 +11,8 @@ Click [here](https://arturmk98.github.io/WeatherApp/) to see the weather app wor
 - Implement a weekly forecast section which will show the weather and a simple animation for each day for 5-7 days
 - Possibly add a few more animations or graphics to make the website look a bit more interesting.
 - Make the colours of the website change depending on the weather. For example, the colours could change to orange/yellow when it is warm and blue/white when cold
+- Rearrange some of the sections
 - If possible, make region description more accurate
 
 # Some more information
-This website uses 
+This website uses the [skycons](https://darkskyapp.github.io/skycons/) animated weather glyphs for the weather animations as well as the [darksky.net](https://darksky.net/dev) api for the weather information.
